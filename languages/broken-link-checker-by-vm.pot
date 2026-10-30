@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Broken Link Checker by VM 1.0.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "All"
+msgstr ""
+
+msgid "Anchor / Alt Text"
+msgstr ""
+
+msgid "Broken"
+msgstr ""
+
+msgid "Broken Link Checker"
+msgstr ""
+
+msgid "Broken Link Checker by VM"
+msgstr ""
+
+msgid "Could not open the CSV output stream."
+msgstr ""
+
+msgid "Export CSV"
+msgstr ""
+
+msgid "Final URL"
+msgstr ""
+
+msgid "HTTP"
+msgstr ""
+
+msgid "Invalid scan ID."
+msgstr ""
+
+msgid "No results for this view."
+msgstr ""
+
+msgid "No scans yet. Start your first scan above."
+msgstr ""
+
+msgid "Permission denied."
+msgstr ""
+
+msgid "Redirects"
+msgstr ""
+
+msgid "Scan completed."
+msgstr ""
+
+msgid "Scan published pages, posts, products, and other public post types for broken links, redirects, and broken images."
+msgstr ""
+
+msgid "Scanning…"
+msgstr ""
+
+msgid "Source Page"
+msgstr ""
+
+msgid "Sources"
+msgstr ""
+
+msgid "Start New Scan"
+msgstr ""
+
+msgid "Starting scan…"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Target URL"
+msgstr ""
+
+msgid "The scan could not continue."
+msgstr ""
+
+msgid "This scan is not running."
+msgstr ""
+
+msgid "Too many redirects."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "URLs checked"
+msgstr ""
+
+msgid "You do not have permission to access this page."
+msgstr ""
